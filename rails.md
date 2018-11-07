@@ -248,7 +248,7 @@
  (HTTP протокол, стандарт построения URL, форматы данных JSON и XML) в ходе взаимодействия.  
  Взаимодействие с ресурсами осуществляется с помощью вызова URL ресурса и стандартных команд HTTP (GET, POST, PUT и DELETE).  
  Эти операции обычно соответствуют операциям с объектом, например, так:  
- Create 	PUT (с пустым ID объекта)
+ Create 	PUT (с пустым ID объекта)  
  	        POST  
  Read 	    GET  
  Update 	PUT (с существующим ID объекта)  
@@ -372,6 +372,10 @@
  * https://en.wikipedia.org/wiki/Representational_state_transfer
  * http://eax.me/rest/
  * https://ru.wikipedia.org/wiki/Monkey_patch
+ 
+ 
+ ##### 17. Какие различия между паттернами MVC, MVVM, MVP, PM  
+ https://habr.com/company/mobileup/blog/313538/  
 
 ### 3. Тесты, тестирование
 
@@ -476,10 +480,13 @@ https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B4_%D1%81_%D0%B7%D0%B0%D0%BF%D0%B0
 
 ### 6. Web
 
- 1. Настройка http—серверов.
- 2. nginx, его отличие от apache?
- 3. Балансировка нагрузки на сервера приложений (haproxy).
- 4. Чем отличается HTTP от HTTPS?
+ 1. Настройка http—серверов.  
+ 2. nginx, его отличие от apache?  
+ 3. Балансировка нагрузки на сервера приложений (haproxy).  
+ 4. Чем отличается HTTP от HTTPS?  
+ 
+ ##### 5. Какие сервера бывают под Ruby?  
+ https://www.8host.com/blog/kratkij-obzor-veb-serverov-dlya-prilozhenij-ruby/
 
 ### 7. Git
 
